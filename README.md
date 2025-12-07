@@ -43,7 +43,5 @@ Funciona únicamente con **HTML y CSS**, y es compatible con todos los navegador
 
 Licencia
 
-© 2025. Todos los derechos reservado
-
 
 © 2025. Todos los derechos reservados.
