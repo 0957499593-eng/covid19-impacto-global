@@ -1,29 +1,51 @@
 Influencia del COVID-19 en la Sociedad
 
-Este proyecto corresponde a un sitio web estático que presenta una visión general del impacto que tuvo la pandemia en Ecuador y a nivel global. Incluye una introducción, una sección de noticias actualizadas y un apartado con cifras de mortalidad.
+Este proyecto consiste en un sitio web estático que analiza el impacto que tuvo la pandemia del COVID-19 tanto en Ecuador como a nivel mundial. El sitio incluye una sección introductoria, un módulo de noticias recientes y un apartado con estadísticas de mortalidad.
 
-Organización del Proyecto
+---
 
-index.html: Página inicial con presentación general y un video informativo.
+Estructura del Proyecto
 
-noticia.html: Contiene artículos y novedades recientes relacionadas con el COVID-19.
+- **index.html**  
+  Página principal del sitio. Contiene la introducción y un video informativo.
 
-mortandad.html: Incluye una tabla con datos y estadísticas de fallecimientos.
+- **noticia.html**  
+  Sección donde se muestran artículos y noticias actualizadas relacionadas con el COVID-19.
 
-css/style.css: Archivo principal de estilos para todo el sitio.
+- **mortandad.html**  
+  Página que presenta datos y cifras de fallecimientos mediante una tabla informativa.
 
-img/: Carpeta destinada a imágenes (logotipos, material gráfico).
+- **css/style.css**  
+  Archivo de estilos globales del sitio web.
 
-video/: Contiene videos de carácter educativo.
+- **img/**  
+  Carpeta destinada a imágenes, íconos y recursos visuales.
 
-Ejecución en Entorno Local
+- **video/**  
+  Directorio donde se almacenan videos de contenido educativo.
 
-Abre el archivo index.html directamente en tu navegador.
+---
 
-Utiliza el menú principal para desplazarte entre las diferentes páginas.
+Cómo ejecutar el proyecto localmente
+
+1. Descarga o clona el repositorio.
+2. Abre el archivo **index.html** en tu navegador.
+3. Usa el menú superior para navegar entre las diferentes páginas del sitio.
+
+---
 
 Requisitos
 
-No se requieren dependencias adicionales. El proyecto funciona únicamente con HTML y CSS y es compatible con los navegadores actuales.
+Este proyecto **no requiere dependencias adicionales**.  
+Funciona únicamente con **HTML y CSS**, y es compatible con todos los navegadores modernos.
+
+---
+
+Licencia
+
+© 2025. Todos los derechos reservados.
+
+---
+
 
 © 2025. Todos los derechos reservados.
